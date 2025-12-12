@@ -19,19 +19,18 @@ Aegis Bank est une néobanque éthique et transparente, conçue pour une expéri
 
 ## Structure du projet
 ```
-Projet-aegis-bank/
+X75-LBA-2026 Dion Selimi/
 ├── index.html          # Page principale
+├── README.md           # Documentation du projet
 ├── style.css           # Styles globaux
 ├── test                # Fichier de test
-├── img/                # Images
-│   └── icon2.png       # Icône
+├── img/                # Dossier pour images (vide pour le moment)
 └── styles/             # Variables CSS organisées
     ├── all-variables.css  # Import de toutes les variables
-    ├── colors.css         # Couleurs
-    ├── typo.css           # Typographie et polices
-    ├── layout.css         # Mise en page
     ├── bouton.css         # Styles boutons
-    └── June in Rock - Personal Use.otf  # Police personnalisée
+    ├── colors.css         # Couleurs
+    ├── layout.css         # Mise en page
+    └── typo.css           # Typographie et polices
 ```
 
 ## Repository
@@ -41,6 +40,7 @@ Projet-aegis-bank/
 1. Clonez ou téléchargez le projet.
 2. Ouvrez `index.html` dans un navigateur web.
 3. Pour tester sur mobile : Utilisez les outils de développement (F12 > responsive design).
+4. Validation HTML : Utilisez [W3C Validator](https://validator.w3.org/) pour vérifier la conformité du code.
 
 ## Auteur
 Développé par Selim pour un projet d'examen en développement front-end.
