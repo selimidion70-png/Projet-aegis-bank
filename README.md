@@ -15,19 +15,23 @@ Aegis Bank est une néobanque éthique et transparente, conçue pour une expéri
 ## Technologies utilisées
 - **HTML5** : Structure sémantique avec header, main, footer.
 - **CSS3** : Flexbox, animations, variables CSS, responsive avec clamp().
-- **Code pur** : HTML et CSS uniquement, sans librairies.
+
 
 ## Structure du projet
 ```
-projet-namcod/
+Projet-aegis-bank/
 ├── index.html          # Page principale
 ├── style.css           # Styles globaux
+├── test                # Fichier de test
+├── img/                # Images
+│   └── icon2.png       # Icône
 └── styles/             # Variables CSS organisées
     ├── all-variables.css  # Import de toutes les variables
     ├── colors.css         # Couleurs
     ├── typo.css           # Typographie et polices
     ├── layout.css         # Mise en page
-    └── bouton.css         # Styles boutons
+    ├── bouton.css         # Styles boutons
+    └── June in Rock - Personal Use.otf  # Police personnalisée
 ```
 
 ## Repository
