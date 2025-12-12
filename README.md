@@ -39,7 +39,7 @@ projet-namcod/
 3. Pour tester sur mobile : Utilisez les outils de développement (F12 > responsive design).
 
 ## Auteur
-Développé par [Votre Nom] pour un projet d'examen en développement front-end.
+Développé par Selim pour un projet d'examen en développement front-end.
 
 ## Licence
 Ce projet est à des fins éducatives uniquement.
