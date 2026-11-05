@@ -1,5 +1,7 @@
 # Aegis Bank - Site Web Mobile-First
 
+![Aperçu de la page d'accueil d'Aegis Bank](img/apercu.webp)
+
 ## Description
 Aegis Bank est une néobanque éthique et transparente, conçue pour une expérience utilisateur optimale sur mobile. Ce projet présente une interface simple et élégante, mettant en avant les valeurs de la banque avec un design responsive et des animations fluides.
 
@@ -24,7 +26,7 @@ Projet-aegis-bank/
 ├── README.md           # Documentation du projet
 ├── style.css           # Styles globaux
 ├── test                # Fichier de test
-├── img/                # Icône du site
+├── img/                # Icône du site et capture d'écran du README
 └── styles/             # Variables CSS organisées
     ├── all-variables.css  # Import de toutes les variables
     ├── bouton.css         # Styles boutons
