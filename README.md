@@ -1,5 +1,7 @@
 # Aegis Bank - Site Web Mobile-First
 
+![Aperçu de la page d'accueil d'Aegis Bank](img/apercu.webp)
+
 ## Description
 Aegis Bank est une néobanque éthique et transparente, conçue pour une expérience utilisateur optimale sur mobile. Ce projet présente une interface simple et élégante, mettant en avant les valeurs de la banque avec un design responsive et des animations fluides.
 
@@ -19,12 +21,12 @@ Aegis Bank est une néobanque éthique et transparente, conçue pour une expéri
 
 ## Structure du projet
 ```
-X75-LBA-2026 Dion Selimi/
+Projet-aegis-bank/
 ├── index.html          # Page principale
 ├── README.md           # Documentation du projet
 ├── style.css           # Styles globaux
 ├── test                # Fichier de test
-├── img/                # Dossier pour images (vide pour le moment)
+├── img/                # Icône du site et capture d'écran du README
 └── styles/             # Variables CSS organisées
     ├── all-variables.css  # Import de toutes les variables
     ├── bouton.css         # Styles boutons
@@ -43,7 +45,10 @@ X75-LBA-2026 Dion Selimi/
 4. Validation HTML : Utilisez [W3C Validator](https://validator.w3.org/) pour vérifier la conformité du code.
 
 ## Auteur
-Développé par Selim pour un projet d'examen en développement front-end.
+Développé par **Dion Selimi** pour un projet d'examen en développement front-end à l'EFP Bruxelles.
+
+- Portfolio : [selimidion70-png.github.io](https://selimidion70-png.github.io)
+- GitHub : [@selimidion70-png](https://github.com/selimidion70-png)
 
 ## Licence
 Ce projet est à des fins éducatives uniquement.
